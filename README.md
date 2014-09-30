@@ -9,9 +9,6 @@ Organizational Structure
 All micro benchmarks are compressed using gzip (.gz extension).
 There are 50 benchmarks of each category, all of them involve 5,000 Nodes.
 
-Organizational Structure
-------------------------
-
 The benchmarks are ordered in subfolders, organized as follows:
 
 	[type]/[ratio]/[partitioning]/[constraints]/n.gz
